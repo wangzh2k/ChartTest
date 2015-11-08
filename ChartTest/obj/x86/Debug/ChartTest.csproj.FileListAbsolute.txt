@@ -13,5 +13,3 @@ C:\Users\wangzh2k\Desktop\BluetoothApps\ChartTest\ChartTest\obj\x86\Debug\ChartT
 C:\Users\wangzh2k\Desktop\BluetoothApps\ChartTest\ChartTest\obj\x86\Debug\ChartTest.Properties.Resources.resources
 C:\Users\wangzh2k\Desktop\BluetoothApps\ChartTest\ChartTest\obj\x86\Debug\ChartTest.csproj.GenerateResource.Cache
 C:\Users\wangzh2k\Desktop\BluetoothApps\ChartTest\ChartTest\obj\x86\Debug\ChartTest.csprojResolveAssemblyReference.cache
-C:\Users\wangzh2k\Desktop\BluetoothApps\ChartTest\ChartTest\bin\Debug\ChartTest.exe.CodeAnalysisLog.xml
-C:\Users\wangzh2k\Desktop\BluetoothApps\ChartTest\ChartTest\bin\Debug\ChartTest.exe.lastcodeanalysissucceeded
